@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DrawingPanel</string>
+    <string name="undo">Undo</string>
+</resources>
